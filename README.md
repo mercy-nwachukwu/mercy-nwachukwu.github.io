@@ -30,14 +30,13 @@
 
 ## Projects
 ### Workout prediction using motion sensor data
-[Repository](https://github.com/mercy-nwachukwu/workout-prediction)
 
 Developed a Python-based machine learning project to accurately predict workout types—such as barbell lifts, squats, deadlifts, overhead presses, and rows—from motion sensor data. The project features a comprehensive pipeline encompassing data preprocessing, visualization, outlier detection, feature engineering, predictive modelling, and a custom algorithm for precise repetition counting during exercises.
 
-![Workout Prediction](workout-img.webp)
+[![Workout Prediction](workout-img.webp)](https://github.com/mercy-nwachukwu/workout-prediction)
 
 ### Collection of predictive models
-[Publication](https://github.com/mercy-nwachukwu/prediction-models)
+[Predictive-models](https://github.com/mercy-nwachukwu/prediction-models)
 
 This repository showcases a collection of Python-based predictive models and mini-projects, demonstrating a broad application of machine learning techniques across various domains. Projects include: Laptop price prediction, Fake news Detection, Article recommendation system, text generation AI etc.
 
@@ -47,5 +46,5 @@ This repository showcases a collection of Python-based predictive models and min
 Developed an advanced inverted index search system for the Center for Global Learning's academic publishing platform. This Python-based project enables efficient search and retrieval of academic content, employing algorithms to calculate similarity scores, filter stop words, and suggest relevant text. 
 
 - [Find other projects here](https://huggingface.co/mercy-N)
-- [Certifications](CMI-Cert.JPEG)
-- [Data-camp](DS_cert.JPEG)
+- [Certifications](https://cmi-certificate.tiiny.site)
+- [Data-camp](https://www.datacamp.com/certificate/DSA0018553200296)
