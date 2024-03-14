@@ -1,4 +1,4 @@
-# Data Scientist | Data Analyst | Business Analyst
+## Data Scientist | Data Analyst | Business Analyst
 
 #### Technical Skills: Python, SQL, Machine Learning, Big Data, Cloud Computing, Data Visualization
 
