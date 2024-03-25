@@ -4,29 +4,30 @@
 
 
 ## Education
-- MSc, Data Science with Distinction | Coventry University (_March  2024_)								       		 			        		
-- B.A, History | University of Abuja (_November 2015_)
+- MSc, Data Science with Distinction | Coventry University								       		 			        		
+- B.A, History | University of Abuja
 
 ## Work Experience
 **Data Analyst (Contract - Remote) @ HDR Inc (_November 2023 - Present_)**
-- Developed a predictive model using advanced data analytics to forecast project resource needs with 95% accuracy, resulting in a 20% reduction in idle time costs and a 15% increase in project delivery efficiency across 12+ major infrastructure projects.
-- Launched an advanced analytics dashboard using Tableau for real-time tracking of project performance metrics, leading to a 40% improvement in on-time project delivery and a 15% decrease in client escalations.
-- Conducted data analysis on project cost overruns, pinpointing root causes like inefficient resource allocation and unplanned scope changes in 80% of cases, which guided strategic adjustments to enhance operational efficiency and project execution.
+- Developed a resource prediction model with 95% accuracy, reducing idle time costs by 20% and increasing delivery efficiency by 15% across 12+ projects.
+- Deployed Tableau dashboards enhancing project delivery timeliness by 40% and cutting client escalations by 15%.
+- Analyzed and optimized data to improve resource allocation and operational efficiency using SQL, Python, and R within HDR Inc.’s diverse project portfolio.
 
 **Product Manager @ Ceeless - Licorne Technologies (_Janurary 2020 - December 2022_)**
 - Established team structure, documentation, and PRD hub on Notion, leading the development cycle for key products like Cenos.io, Adialaway.ng, dillali.com, Smallchops.ng, driving product strategy and execution.
 - Led feature prioritization and roadmap planning using Jira and Kanban, streamlining product development processes and enhancing platform functionality across internal and external platforms. 
-- Recruited and collaborated with product designers to revamp UI & UX across customer apps and websites, focusing on a customer-centric approach. Utilized A/B testing and cohort analytics for insights-driven enhancements, significantly enriching user experiences. Enhanced Smallchops.ng and Adialaway.ng by incorporating location-based services for efficient service provider discovery, optimizing the customer journey.
+- Directed UX/UI revamps across customer-facing apps and websites. using A/B testing and cohort analytics for user experience upgrades. Enhanced smallchops.ng and Adialaway.ng by incorporating location-based services for efficient service provider discovery.
 
 **Junior Software Developer @ Licorne Technologies (_May 2018 - December 2019_)**
-- Enhanced application performance and functionality by developing server-side logic in PHP and Laravel, directly contributing to a more robust and efficient system architecture.
-- Streamlined data exchange and enabled seamless third-party integrations by designing robust RESTful APIs and fostering close collaboration with front-end teams, significantly reducing integration discrepancies
-- Strengthened system security and ensured data integrity by leveraging Laravel’s routing and middleware for API requests, enhancing the application’s overall reliability and user trust
+- specialized in server-side logic in PHP and Laravel. Implemented caching mechanisms, streamlined database queries, and applied API rate limiting, leading to faster response times, reduced server load, and improved user experience.
+- Specialized in integrating third-party payment APIs including Paystack, Flutterwave, PayPal, and Stripe into diverse projects. Developed scalable, secure RESTful APIs to facilitate data exchange and seamless payment processing. 
+- Optimized SQL schemas and integrated Laravel's Eloquent ORM, using indexing, eager loading, and caching to boost data retrieval and efficiency.
 
 **Business Analytics @ Interswitch Group (_September 2015 - April 2018_)**
-- Transformed vast consumer data into dynamic dashboards, enhancing KPI monitoring and decision-making, and saving 30% in reporting time, thereby increasing business visibility and efficiency.
-- Led the design and deployment of ("Quick data") an innovative data product for customer segmentation and credit scoring, enhancing the product development process and driving a 15% revenue increase.
-- Generated actionable insights from complex data analyses, informing strategic decisions that increased market share by 10% and improved stakeholder engagement through effective storytelling.
+- Developed and optimized Tableau dashboards for real-time KPI tracking (Fraud Rate, User Retention, Payment Success, Transaction Time) using system data, boosting operational insights and efficiency 
+- Led data product initiatives, integrating Agile methodologies and advanced algorithms to craft a business architecture and product suite, including customer segmentation tools and credit scoring models. This resulted in a 20% surge in customer satisfaction and a 15% revenue boost in key segments within the first year.
+- Led the development business cases and product papers with tools like Jira, streamlining development workflows. uniting Data Science and Engineering teams, cut time-to-market by 25%, and aligned technical specifications with market needs and business objectives. 
+
 
 ## Projects
 ### Workout prediction using motion sensor data
